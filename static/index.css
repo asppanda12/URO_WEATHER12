@@ -1,0 +1,22 @@
+.top
+{
+    font-style: italic;
+    color: blue;
+    text-align: center;
+}
+body {
+    background-color: aqua;
+    background-image: url('image.jpg');
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.iop
+{
+    font-size: 5.25rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    color: deeppink;
+    opacity: 1.25;
+}
